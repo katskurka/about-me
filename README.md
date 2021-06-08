@@ -1,4 +1,3 @@
-
 <html>
 <body>
 <h1><u>About Me</u></h1>
@@ -6,3 +5,5 @@
 <p>When not in front of a computer monitor, I love surfing and hiking with my three pups who are the fluffiest Belgian Shepherds to ever be used as pillows.</p>
 </body>
 </html>
+
+
