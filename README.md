@@ -10,4 +10,3 @@ When not in front of a computer monitor, I love surfing as well as hiking with m
 * Surfing
 * Writing
 * Gaming
-
