@@ -4,3 +4,11 @@ Hey there! My name is Kat and I’m a New England native currently living in Rho
 
 When not in front of a computer monitor, I love surfing as well as hiking with my three pups who are the fluffiest Belgian Shepherds to ever be used as pillows.
 
+## For Fun
+
+* Hiking
+* Surfing
+* Writing
+* Gaming
+
+
